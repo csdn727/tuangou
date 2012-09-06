@@ -29,3 +29,4 @@ pip-log.txt
 *.xml
 *.log
 local_settings.py
+TAGS

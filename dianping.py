@@ -46,3 +46,6 @@ class Dianping(Tuangou):
                 continue
 
             self.deals.append(deal)
+
+if __name__ == '__main__':
+    Dianping().start()
